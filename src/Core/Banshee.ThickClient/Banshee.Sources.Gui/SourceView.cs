@@ -97,6 +97,7 @@ namespace Banshee.Sources.Gui
             };
 
             ResetSelection ();
+            OnStyleUpdated();
         }
 
 #region Setup Methods

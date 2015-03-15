@@ -6,7 +6,7 @@
     <person>Khaled Hosny</person>
   </language>
   <language code="ast" name="Asturian">
-    <person>Iñigo Varela</person>
+    <person>I?igo Varela</person>
     <person>Xandru Armesto</person>
   </language>
   <language code="be@latin" name="Belarusian">
@@ -19,17 +19,20 @@
   <language code="br" name="Breton">
     <person>Denis</person>
   </language>
+  <language code="bs" name="Bosnian">
+    <person>Ajla Sukrija</person>
+  </language>
   <language code="ca" name="Catalan">
-    <person>Jordi Mas i Hernàndez</person>
+    <person>Jordi Mas i Hern?ndez</person>
   </language>
   <language code="ca@valencia" name="Catalan (Valencian)">
-    <person>Jordi Mas i Hernàndez</person>
+    <person>Jordi Mas i Hern?ndez</person>
   </language>
   <language code="cs" name="Czech">
     <person>Jakub Friedl</person>
-    <person>Jiří Eischmann</person>
-    <person>Lukáš Novotný</person>
-    <person>Marek Černocký</person>
+    <person>Ji?? Eischmann</person>
+    <person>Luk?? Novotn?</person>
+    <person>Marek ?ernock?</person>
   </language>
   <language code="da" name="Danish">
     <person>Joe Hansen</person>
@@ -43,16 +46,16 @@
     <person>Daniel Winzen</person>
     <person>Hendrik Knackstedt</person>
     <person>Jochen Skulj</person>
-    <person>Mario Blättermann</person>
+    <person>Mario Bl?ttermann</person>
     <person>Micha Pietsch</person>
     <person>Philipp Kerling</person>
-    <person>Wolfgang Stöggl</person>
+    <person>Wolfgang St?ggl</person>
   </language>
   <language code="dz" name="Dzongkha">
     <person>yumkee lhamo</person>
   </language>
   <language code="el" name="Greek">
-    <person>Dimitris Spingos (Δημήτρης Σπίγγος)</person>
+    <person>Dimitris Spingos (???????? ???????)</person>
     <person>Emmanouel Kapernaros</person>
     <person>Ioannis Zampoukas</person>
     <person>Michael Kotsarinis</person>
@@ -72,16 +75,16 @@
     <person>Gerard BONNER</person>
     <person>Kristjan SCHMIDT</person>
   </language>
-  <language code="es" name="Español; Castellano">
-    <person>Andrés Herrera</person>
-    <person>Benjamín Valero Espinosa</person>
+  <language code="es" name="Espa?ol; Castellano">
+    <person>Andr?s Herrera</person>
+    <person>Benjam?n Valero Espinosa</person>
     <person>Daniel Mustieles</person>
     <person>Francisco Javier F. Serrador</person>
-    <person>Jorge González</person>
+    <person>Jorge Gonz?lez</person>
     <person>Maria Majadas</person>
   </language>
   <language code="eu" name="Basque">
-    <person>Iñaki Larrañaga Murgoitio</person>
+    <person>I?aki Larra?aga Murgoitio</person>
   </language>
   <language code="fi" name="Finnish">
     <person>Ilkka Tuohela</person>
@@ -96,13 +99,13 @@
     <person>Florent Le Coz</person>
     <person>Jonathan Ernst</person>
     <person>Laurent Coudeur</person>
-    <person>Robert-André Mauchin</person>
-    <person>Stéphane Raimbault</person>
+    <person>Robert-Andr? Mauchin</person>
+    <person>St?phane Raimbault</person>
     <person>Yannick Tailliez</person>
   </language>
   <language code="gl" name="Galician">
-    <person>Antón Méixome</person>
-    <person>Fran Diéguez</person>
+    <person>Ant?n M?ixome</person>
+    <person>Fran Di?guez</person>
     <person>Ignacio Casal Quinteiro</person>
   </language>
   <language code="gu" name="Gujarati">
@@ -116,9 +119,9 @@
     <person>Yaron Shahrabani</person>
   </language>
   <language code="hu" name="Hungarian">
-    <person>Balázs Úr</person>
+    <person>Bal?zs ?r</person>
     <person>Gabor Kelemen</person>
-    <person>Kéménczy Kálmán</person>
+    <person>K?m?nczy K?lm?n</person>
   </language>
   <language code="id" name="Indonesian">
     <person>Andika Triwidada</person>
@@ -145,20 +148,20 @@
     <person>Timur Zhamakeev</person>
   </language>
   <language code="lt" name="Lithuanian">
-    <person>Aurimas Černius</person>
+    <person>Aurimas ?ernius</person>
     <person>Gintautas Miliauskas</person>
-    <person>Žygimantas Beručka</person>
+    <person>?ygimantas Beru?ka</person>
   </language>
   <language code="lv" name="Latvian">
     <person>Raivis Dejus</person>
-    <person>Rūdolfs Mazurs</person>
+    <person>R?dolfs Mazurs</person>
   </language>
   <language code="mk" name="Macedonian">
     <person>Jovan Naumovski</person>
   </language>
   <language code="nb" name="Norwegian">
     <person>Kjartan Maraas</person>
-    <person>Øivind Hoel</person>
+    <person>?ivind Hoel</person>
   </language>
   <language code="nl" name="Dutch">
     <person>Pepijn van de Geer</person>
@@ -177,25 +180,25 @@
   <language code="pl" name="Polish">
     <person>Artur Flinta</person>
     <person>Mateusz Kacprzak</person>
-    <person>Piotr Drąg</person>
+    <person>Piotr Dr?g</person>
     <person>Tomasz Dominikowski</person>
     <person>Wadim Dziedzic</person>
   </language>
   <language code="pt" name="Portuguese">
-    <person>António Lima</person>
+    <person>Ant?nio Lima</person>
     <person>Filipe Gomes</person>
     <person>Tiago S.</person>
   </language>
   <language code="pt_BR" name="Brazilian Portuguese">
-    <person>Amanda Magalhães</person>
+    <person>Amanda Magalh?es</person>
     <person>Carlos Eduardo Moreira dos Santos</person>
-    <person>Carlos José Pereira</person>
+    <person>Carlos Jos? Pereira</person>
     <person>Daniel Abreu</person>
     <person>Daniel S. Koda</person>
     <person>Enrico Nicoletto</person>
     <person>Evandro Fernandes Giovanini</person>
-    <person>Fábio Nogueira</person>
-    <person>Fabrício Godoy</person>
+    <person>F?bio Nogueira</person>
+    <person>Fabr?cio Godoy</person>
     <person>Lucas Mezencio</person>
     <person>Marco Carvalho</person>
     <person>Michel Recondo</person>
@@ -206,8 +209,8 @@
     <person>Rodrigo Flores</person>
     <person>Vladimir Melo</person>
   </language>
-  <language code="ro" name="Romanian Gnome Team">
-    <person>Daniel Șerbănescu</person>
+  <language code="ro" name="">
+    <person>Daniel ?erb?nescu</person>
     <person>Lucian Adrian Grijincu</person>
   </language>
   <language code="ru" name="Russian">
@@ -221,15 +224,16 @@
     <person>Yuri Myasoedov</person>
   </language>
   <language code="sk" name="Slovak">
-    <person>Pavol Klacansky</person>
+    <person>Pavol Babin??k</person>
+    <person>Pavol Kla?ansk?</person>
   </language>
   <language code="sl" name="Slovenian">
-    <person>Andrej Žnidaršič</person>
-    <person>Matej Urbančič</person>
+    <person>Andrej ?nidar?i?</person>
+    <person>Matej Urban?i?</person>
   </language>
   <language code="sr" name="Serbian">
-    <person>Goran Rakić</person>
-    <person>Miroslav Nikolić</person>
+    <person>Goran Raki?</person>
+    <person>Miroslav Nikoli?</person>
   </language>
   <language code="sv" name="Swedish">
     <person>Christian Rose</person>
@@ -245,9 +249,10 @@
     <person>Sira Nokyoongtong</person>
     <person>Theppitak Karoonboonyanan</person>
   </language>
-  <language code="tr" name="Türkçe">
-    <person>Hasan Yılmaz</person>
+  <language code="tr" name="T?rk?e">
+    <person>Hasan Y?lmaz</person>
     <person>Muhammet Kara</person>
+    <person>Necdet Y?cel</person>
   </language>
   <language code="uk" name="Ukrainian">
     <person>Maxim Dziumanenko</person>
@@ -256,17 +261,17 @@
   </language>
   <language code="vi" name="Vietnamese">
     <person>Clytie Siddall</person>
-    <person>Ngô Chin</person>
+    <person>Ng? Chin</person>
   </language>
   <language code="zh_CN" name="Simplified Chinese">
     <person>Aron Xu</person>
     <person>ben</person>
     <person>EaiLFly</person>
-    <person>michaeljayt</person>
+    <person>Jeff Bai</person>
     <person>Tao Wang</person>
     <person>Techlive Zheng</person>
     <person>Wylmer Wang</person>
-    <person>甘露(Gan Lu)</person>
+    <person>??(Gan Lu)</person>
   </language>
   <language code="zh_HK" name="Chinese (Hong Kong)">
     <person>Cheng-Chia Tseng</person>
